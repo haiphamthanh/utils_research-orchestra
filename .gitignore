@@ -1,1 +1,4 @@
 .DS_Store
+.server.log
+.server.pid
+.server.port
